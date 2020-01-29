@@ -1,6 +1,9 @@
 # NBA-Detail-data-analysis
 In this project, my team and I will do a detail analysis based on the NBA dataset on Kaggle. We also have a version of Google data studio to present the information that we found.
 
+**The final work** here is the link to the Google Data Studio:
+https://datastudio.google.com/reporting/f4cfb10c-9705-425f-8522-c3f5d6f16dd0
+
 ## [ 1. OVERVIEW ](/9lRMLcbMR--joBvR84z5KA)
 
 [ **- About the data**: ](/9lRMLcbMR--joBvR84z5KA) 
@@ -11,9 +14,6 @@ In this project, my team and I will do a detail analysis based on the NBA datase
 [ **-  What are we going to do with the dataset?**: ](/9lRMLcbMR--joBvR84z5KA) 
 1. **The purpose**: before starting to analyze any dataset, we must know what kind of information and insights that we are looking for. By doing so, we choose imaging that we are data scientists of an NBA talent agency. Our task is to look for and provide useful insights for our agency to hunt and improve the performance of our talents.
 
-
-4. **The final work** here is the link to the Google Data Studio:
-https://datastudio.google.com/reporting/f4cfb10c-9705-425f-8522-c3f5d6f16dd0
 
 ---
 ## [ 2. THE APPROACH ](/9lRMLcbMR--joBvR84z5KA)
