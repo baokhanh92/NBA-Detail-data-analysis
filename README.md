@@ -4,6 +4,8 @@ In this project, my team and I will do a detail analysis based on the NBA datase
 **The final work** here is the link to the Google Data Studio:
 https://datastudio.google.com/reporting/f4cfb10c-9705-425f-8522-c3f5d6f16dd0
 
+# [NBA DATA ANALYSIS ](/9lRMLcbMR--joBvR84z5KA)
+---
 ## [ 1. OVERVIEW ](/9lRMLcbMR--joBvR84z5KA)
 
 [ **- About the data**: ](/9lRMLcbMR--joBvR84z5KA) 
@@ -11,9 +13,14 @@ https://datastudio.google.com/reporting/f4cfb10c-9705-425f-8522-c3f5d6f16dd0
 - This NBA dataset contain many information both about the seasons and the players information. The pros of having quite large data at hand is that I can do deep dive data anaylis and found good and well-rounded insights.
 - Data is stored in 3 seperate csv file which are player_data, player and seasons_stats
 
+![](https://i.imgur.com/0dY5URQ.png)
+
 [ **-  What are we going to do with the dataset?**: ](/9lRMLcbMR--joBvR84z5KA) 
 1. **The purpose**: before starting to analyze any dataset, we must know what kind of information and insights that we are looking for. By doing so, we choose imaging that we are data scientists of an NBA talent agency. Our task is to look for and provide useful insights for our agency to hunt and improve the performance of our talents.
 
+
+4. **The final work** here is the link to the Google Data Studio:
+https://datastudio.google.com/reporting/8c8c48e5-9d78-432e-befe-010cabe66a4d
 
 ---
 ## [ 2. THE APPROACH ](/9lRMLcbMR--joBvR84z5KA)
@@ -28,26 +35,29 @@ https://datastudio.google.com/reporting/f4cfb10c-9705-425f-8522-c3f5d6f16dd0
 #### [2.1.2 Little bit about the Insighs](/lH2ryznwTJa4oKA092dkkA)
 
 - **1. The change in term of number of games, team and players in NBA over the course of 67 years.**
+![](https://i.imgur.com/iMwpiih.png)
+
 ![](https://i.imgur.com/lpKR4IU.png)
 
-![](https://i.imgur.com/WHaqwjf.png)
 
 - **2. What is the distribution of career length in NBA industry?**
-![](https://i.imgur.com/QDWOVQ6.png)
+![](https://i.imgur.com/YOtBic4.png)
 
-- **3. What is the avg length in NBA, are there any outliers, if yes, then how long one can stay in this industry?**
-![](https://i.imgur.com/SDmP25c.png)
-
-![](https://i.imgur.com/Y2i63i0.png)
+- **3. Who are on the top?** 
+![](https://i.imgur.com/qm9wGlT.png)
 
 - **4. What is the age of top players when they reached the top?** 
 ![](https://i.imgur.com/Zs6Y5CR.png)
 
-- **5. What about the height and weight distribution of these players?**
+- **5. What about the height and weight distribution of these players over time?**
+![](https://i.imgur.com/wnyUwk6.gif)
+
+- **6. What about the height and weight distribution of these players over time?**
 ![](https://i.imgur.com/WhJG3RK.png)
 ![](https://i.imgur.com/sARXhQo.png)
 
-- **6. How the height and weight affect players' positions?**
+
+- **6. What is the average height and weight for an NBA players?**
 ![](https://i.imgur.com/Xc1PvOU.png)
 
 ---
@@ -71,5 +81,7 @@ https://datastudio.google.com/reporting/f4cfb10c-9705-425f-8522-c3f5d6f16dd0
 
 
 6. In term of strategy, players are shooting more and more **3-pointer**. However, shooting more doesn't mean players get more effecience at this.
+
+
 
 
